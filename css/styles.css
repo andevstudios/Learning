@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    padding: 5px;
+    display: flex;
+}
+
+#Title {
+    margin-top: 35px;
+    margin-left: 30px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#logo {
+    width: 100px;
+    margin-left: 50px;
+}
+
+.navbar {
+    background-color: rgb(94, 90, 90);
+    padding: 12px;
+}
+
+#treebar {
+    background-color: white;
+}
+
+
